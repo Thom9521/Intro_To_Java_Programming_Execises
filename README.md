@@ -9,6 +9,6 @@ Feel free to copy. :)
 
 /*
 Author: Thomas Christensen
-Date: 12/11-2017
+
 Email: Thomas96mc@gmail.com
  */
